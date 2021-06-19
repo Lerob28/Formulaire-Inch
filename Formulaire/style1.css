@@ -1,0 +1,28 @@
+@media screen and (max-width:768px){
+  .photo_profil{
+    display:none !important;
+  }
+  .naissance {
+    display:none !important;
+  }
+  .mot_de_passe {
+    display:none !important;
+  }
+  .sexe {
+    display:none !important;
+  }
+}
+@media screen and (min-width:768px) and (max-width:992px){
+  .photo_profil{
+    display:none !important;
+  }
+  .naissance {
+  display:none !important;
+  }
+  .mot_de_passe {
+  display:none !important;
+  }
+  .sexe {
+  display:none !important;
+  }
+}  
